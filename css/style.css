@@ -1,0 +1,93 @@
+/*! basic style sheet for exercise purpose */
+
+body {
+  background-color: rgb(104,187,285);
+}
+
+.container {
+	width: 100%;
+	}
+
+.leftbox {
+	width: 40%;
+	float: left;
+	background-color: rgb(9,30,45);
+	color: white;
+	padding: 10px 15px 10px 15px;
+	margin-right: 5px;
+}
+
+.rightbox {
+	width: 50%;
+	float: right;
+	background-color: rgb(9,30,45);
+	color: white;
+	padding: 10px 15px 10px 15px;
+	margin-right: 5px;
+}
+
+.experiencesbox {
+	display: block;
+	background-color: white;
+	color: black;
+	padding: 5px 10px 5px 10px;
+	margin-top: 10px;
+}
+
+.educationbox {
+	display: block;
+	background-color: white;
+	color: black;
+	padding: 5px 10px 5px 10px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.experience	{
+	background-color: #eee;
+	padding: 10px 5px 10px 5px;
+	margin: 5px 0px 5px 0px;
+	}
+
+h1 {
+	font-size: 24x;
+	}
+	
+h2 {
+	font-size: 18px;
+	}
+	
+h3 {
+	font-size: 16px;
+	}
+	
+h4 {
+	font-size: 14px;
+	}
+	
+h5 {
+	font-size: 10px;
+	}
+	
+hr {
+	line-height: 1px;
+	color: white;
+}
+
+p	{
+	align: justify;
+	}
+
+.current {
+	font-size: 14 px;
+	line-height: 2;
+}
+
+.item {
+	font-size: 12 px;
+	line-height: 1.75;
+}
+	
+.footer {
+	clear: both;
+	}
